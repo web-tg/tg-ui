@@ -62,5 +62,11 @@
     "Component",
     "Vue3"
   ],
+  "homepage": "https://github.com/web-tg/tg-ui",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web-tg/tg-ui"
+  },
+
   "license": "MIT"
 }
