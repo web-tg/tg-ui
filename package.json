@@ -1,5 +1,5 @@
 {
-  "name": "tg-ui",
+  "name": "tg-z-ui",
   "version": "0.1.0",
   "private": false,
   "author": "web-tg",
@@ -21,6 +21,7 @@
   },
   "main": "dist/tg-ui.umd.js",
   "module": "dist/tg-ui.esm.js",
+  "types":"dist/index.d.ts",
   "files": [
     "dist"
   ],
@@ -62,5 +63,10 @@
     "Component",
     "Vue3"
   ],
+  "homepage": "https://github.com/web-tg/tg-ui",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web-tg/tg-ui"
+  },
   "license": "MIT"
 }
