@@ -21,7 +21,7 @@
   },
   "main": "dist/tg-ui.umd.js",
   "module": "dist/tg-ui.esm.js",
-  "types":"dist/index.d.ts",
+  "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],

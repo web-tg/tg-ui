@@ -7,10 +7,12 @@ export {
 
 import ZText from './components/ZText'
 import ZImage from './components/ZImage'
+import ZButton from './components/ZButton'
 
 const components = [
   ZText,
   ZImage,
+  ZButton,
 ]
 
 const install = (app: App) => {
@@ -22,6 +24,7 @@ const install = (app: App) => {
 export {
   ZText,
   ZImage,
+  ZButton,
   install
 }
 export default {
