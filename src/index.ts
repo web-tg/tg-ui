@@ -5,12 +5,12 @@ export {
   AllComponentProps
 } from './defaultProps'
 
-import LText from './components/ZText'
-import LImage from './components/ZImage'
+import ZText from './components/ZText'
+import ZImage from './components/ZImage'
 
 const components = [
-  LText,
-  LImage,
+  ZText,
+  ZImage,
 ]
 
 const install = (app: App) => {
@@ -20,8 +20,8 @@ const install = (app: App) => {
 }
 
 export {
-  LText,
-  LImage,
+  ZText,
+  ZImage,
   install
 }
 export default {
