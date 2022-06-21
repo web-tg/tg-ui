@@ -19,8 +19,8 @@
       "pre-commit": "npm run lint && npm run test"
     }
   },
-  "main": "dist/tg-ui.umd.js",
-  "module": "dist/tg-ui.esm.js",
+  "main": "dist/tg-z-ui.umd.js",
+  "module": "dist/tg-z-ui.esm.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
@@ -63,10 +63,10 @@
     "Component",
     "Vue3"
   ],
-  "homepage": "https://github.com/web-tg/tg-ui",
+  "homepage": "https://github.com/web-tg/tg-z-ui",
   "repository": {
     "type": "git",
-    "url": "https://github.com/web-tg/tg-ui"
+    "url": "https://github.com/web-tg/tg-z-ui"
   },
   "license": "MIT"
 }

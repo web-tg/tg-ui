@@ -1,4 +1,4 @@
-# tg-ui TEST
+# tg-z-ui TEST
 
 ## 特性
 * **typescript**
